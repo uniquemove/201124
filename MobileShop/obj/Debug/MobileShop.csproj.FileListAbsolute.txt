@@ -1,0 +1,16 @@
+D:\C# git\MobileShop\bin\Debug\MobileShop.exe.config
+D:\C# git\MobileShop\bin\Debug\MobileShop.exe
+D:\C# git\MobileShop\bin\Debug\MobileShop.pdb
+D:\C# git\MobileShop\obj\Debug\MobileShop.csproj.AssemblyReference.cache
+D:\C# git\MobileShop\obj\Debug\MobileShop.DangNhap.resources
+D:\C# git\MobileShop\obj\Debug\MobileShop.Properties.Resources.resources
+D:\C# git\MobileShop\obj\Debug\MobileShop.csproj.GenerateResource.cache
+D:\C# git\MobileShop\obj\Debug\MobileShop.csproj.CoreCompileInputs.cache
+D:\C# git\MobileShop\obj\Debug\MobileShop.exe
+D:\C# git\MobileShop\obj\Debug\MobileShop.pdb
+D:\C# git\MobileShop\obj\Debug\MobileShop.UC_DonHang.resources
+D:\C# git\MobileShop\obj\Debug\MobileShop.Main.resources
+D:\C# git\MobileShop\obj\Debug\MobileShop.UC_DanhMucSanPham.resources
+D:\C# git\MobileShop\obj\Debug\MobileShop.UC_ThongKeDoanhThu.resources
+D:\C# git\MobileShop\obj\Debug\MobileShop.UC_DanhMucKhachHang.resources
+D:\C# git\MobileShop\obj\Debug\MobileShop.UC_ThemSanPham.resources
